@@ -49,7 +49,7 @@ function empWage(companyName,fullWage,halfWage,noWage,workingDays){       //func
         console.log(' ');
         console.log('------------------------------------------------------------------------------------------------');
     }
-
+    
 }
 
 var flipkart = new empWage("Flipkart",160,80,0,28);             //making an object of functional constructor and passing data as arguments
